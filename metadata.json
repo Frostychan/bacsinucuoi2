@@ -1,0 +1,6 @@
+{
+  "name": "MedCare Plus - Đặt Lịch Khám Bệnh & Hồ Sơ Y Tế",
+  "description": "Nền tảng đặt lịch khám bệnh trực tuyến dễ dàng, tư vấn sức khỏe bằng AI, thanh toán trực tuyến và quản lý hồ sơ bệnh án cá nhân thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
